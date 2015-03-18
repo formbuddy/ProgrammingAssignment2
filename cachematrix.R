@@ -1,7 +1,7 @@
 ## makeCacheMatrix: creates a special vector
 ## which is a list containing functions to
-## a) set the value of the vector (set)
-## b) get the value of the vector (get)
+## a) set the value of the matrix (set)
+## b) get the value of the matrix (get)
 ## c) get the value of the matrix inverse (getinverse)
 ## d) set the value of the matrix inverse (setinverse)
 
